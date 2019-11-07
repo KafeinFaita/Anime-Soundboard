@@ -1,6 +1,5 @@
-#sounds folder
-/sounds
+# sounds folder
+sounds/
 
-#sass files
-styles.css.map
-styles.scss
+# sass files
+*.scss
